@@ -1,3 +1,3 @@
-## [老赖的summary](./2022-winter-summary/)
+## [老赖的summary](https://github.com/bohepidan/2022-winter-summary/)
 
-## [送玉的summary](./tsy_study_diary/)
+## [送玉的summary](https://github.com/theworld000/tsy_study_diary)
