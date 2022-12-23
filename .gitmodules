@@ -1,0 +1,6 @@
+[submodule "tsy_study_diary"]
+	path = tsy_study_diary
+	url = https://github.com/theworld000/tsy_study_diary
+[submodule "2022-winter-summary"]
+	path = 2022-winter-summary
+	url = https://github.com/bohepidan/2022-winter-summary.git
